@@ -11,11 +11,11 @@ This React project fetches data from an API based on a specified category using 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/repository-name.git
+   https://github.com/jignesh2403/custom-hooks.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd repository-name
+   cd custom-hooks
    ```
 3. Install dependencies:
    ```sh
@@ -55,4 +55,5 @@ Developed by Jignesh.
 
 ---
 Feel free to contribute and improve this project!
-
+## OUTPUT
+![Screenshot (2)](https://github.com/user-attachments/assets/efccceb6-980b-4188-8739-0e3fc6dac0da)
